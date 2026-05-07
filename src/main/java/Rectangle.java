@@ -1,7 +1,7 @@
 class Rectangle {
 	//instance variables
-	private int length;
-	private int width;
+	public int length;
+	public int width;
 
 	//constructor - THIS DOES NOT GET INHERITED
 	public Rectangle(int length, int width) {

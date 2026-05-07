@@ -10,10 +10,10 @@ class RectPrism extends Rectangle { //add inhertiance to the class by using the 
 
 	//
 	public RectPrism(int length, int width, int height) {
-		/*
-		this.length = length;
-		this.width = width;
-		*/
+		
+		// this.length = length;
+		// this.width = width;
+		
 
 		//super() runs the constructor of our superclass - what we inherited from
 		super(length, width); //sets the length and width of RectPrism
